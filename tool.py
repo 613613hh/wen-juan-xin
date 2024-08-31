@@ -71,7 +71,6 @@ def extract_questions_and_options(driver):
             fill_in_blank_element = question_element.find_element(By.CSS_SELECTOR, config.CSS_SELECTORS["fill_in_blank"].format(num=index))
             options = [{
                 "option_index": "1",
-                "option_text": "Sample answer",  # 你可以用动态答案生成逻辑替换此处
                 "css_selector": generate_css_selector(driver, fill_in_blank_element)
             }]
 
@@ -100,7 +99,7 @@ def extract_questions_and_options(driver):
     current_url = driver.current_url
     filename = generate_filename(current_url)
     # 将数据保存为JSON文件，以URL为文件名
-    with open(f'{filename}', 'w') as f:
+    with open(f'{filename}.json', 'w') as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
 
 def auto_fill_questionnaire(driver,filename):
@@ -112,8 +111,8 @@ def auto_fill_questionnaire(driver,filename):
         if question["question_type"] == "fill_in_blank":  # 处理填空题
             for option in question["options"]:
                 element = driver.find_element(By.CSS_SELECTOR, option["css_selector"])
-                element.send_keys(option["option_text"])
-                logging.info(f"Filled in the blank for question {question['question_index']} with text: {option['option_text']}")
+                element.send_keys(config.SAMPLE_ANSWER)
+                logging.info(f"Filled in the blank for question {question['question_index']} with text: {config.SAMPLE_ANSWER}")
         elif question["question_type"] == "single_choice":  # 单选题，随机选择一个
             selected_option = random.choice(question["options"])
             element = driver.find_element(By.CSS_SELECTOR, selected_option["css_selector"])
@@ -136,7 +135,7 @@ def execute_questionnaire_autofill(driver):
 
     # 获取当前URL并生成合法的文件名
     current_url = driver.current_url
-    filename = generate_filename(current_url) + ".json"  # 确保有扩展名
+    filename = generate_filename(current_url) + ".json"
 
     # 检查文件是否存在
     if not os.path.exists(filename):

@@ -3,6 +3,7 @@
 CSS_SELECTORS = {
     "question_selector" : "div.topichtml",
     "option_selector" : "div.label",
+    "fill_in_blank": '#q{num}',
     "submit_button": '#ctlNext',
     "authentication_button": '#layui-layer1 > div.layui-layer-btn.layui-layer-btn- > a.layui-layer-btn0',
     "rect_bottom": 'div#rectBottom.rect-bottom'
@@ -18,4 +19,6 @@ BROWSER_CONFIG = {
 # SURVEY_URLS = 'https://www.wjx.cn/vm/hiQpVeR.aspx'
 
 SURVEY_URLS = 'https://kaoshi.wjx.top/vm/mqZfxTx.aspx'
+
+SAMPLE_ANSWER = 'Sample answer'
 
