@@ -19,8 +19,4 @@ BROWSER_CONFIG = {
 # SURVEY_URLS = 'https://www.wjx.cn/vm/hiQpVeR.aspx'
 
 SURVEY_URLS = 'https://kaoshi.wjx.top/vm/mqZfxTx.aspx'
-FILL_IN_ANSWERS = {
-    "A": "python真的好用！",
-    "B": "这个测试很成功！",
-    "C": "填空题随机填写文本"
-}
+
