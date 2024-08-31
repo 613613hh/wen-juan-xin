@@ -64,7 +64,7 @@ def start_survey(times):
         except NoSuchElementException:
             logging.error("Submit button not found.")
         time.sleep(4)
-        renzheng(driver)  # 调用智能认证函数
+        # renzheng(driver)  # 调用智能认证函数
         # huakuai()  # 调用滑块函数
         logging.info(f'已经提交了 {i + 1} 次问卷.')
         time.sleep(5)

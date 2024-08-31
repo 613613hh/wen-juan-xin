@@ -1,9 +1,8 @@
 # config.py
 
 CSS_SELECTORS = {
-    "single_choice": 'div.field.ui-field-contain',
-    "multiple_choice": '#div2 > div.ui-controlgroup.column1',
-    "fill_in_blank": '#q{num}',
+    "question_selector" : "div.topichtml",
+    "option_selector" : "div.label",
     "submit_button": '#ctlNext',
     "authentication_button": '#layui-layer1 > div.layui-layer-btn.layui-layer-btn- > a.layui-layer-btn0',
     "rect_bottom": 'div#rectBottom.rect-bottom'

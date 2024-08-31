@@ -51,18 +51,14 @@ def generate_css_selector(driver, element):
 
 
 def extract_questions_and_options(driver):
-    # 定义包含问题和选项的CSS选择器
-    question_selector = "div.topichtml"
-    option_selector = "div.label"
-
     all_data = []
 
     # 查找所有问题区域
     question_elements = driver.find_elements(By.CSS_SELECTOR, "div.field")
 
     for index, question_element in enumerate(question_elements, start=1):
-        question_text = question_element.find_element(By.CSS_SELECTOR, question_selector).text.strip()
-        option_elements = question_element.find_elements(By.CSS_SELECTOR, option_selector)
+        question_text = question_element.find_element(By.CSS_SELECTOR, config.CSS_SELECTORS["question_selector"]).text.strip()
+        option_elements = question_element.find_elements(By.CSS_SELECTOR,config.CSS_SELECTORS["option_selector"])
 
         # 判断题型
         if len(option_elements) > 1 and "【多选题】" in question_text:
