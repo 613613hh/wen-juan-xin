@@ -10,11 +10,7 @@ import config  # 导入配置文件
 from selenium.common.exceptions import NoSuchElementException
 
 from tool import execute_questionnaire_autofill
-# 配置日志记录器
-logging.basicConfig(level=logging.INFO,  # 设置日志级别为INFO
-                    format='%(asctime)s - %(levelname)s - %(message)s',  # 日志格式
-                    handlers=[logging.StreamHandler()])  # 输出到控制台
-
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 def initialize_webdriver():
     options = Options()
     options.add_experimental_option('excludeSwitches', config.BROWSER_CONFIG["exclude_switches"])

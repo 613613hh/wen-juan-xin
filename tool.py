@@ -7,6 +7,7 @@ import random
 from selenium.webdriver.common.by import By
 
 import config  # 导入配置文件
+from utils.question_processing import process_choicequestion
 
 
 def generate_filename(url):
@@ -16,6 +17,7 @@ def generate_filename(url):
     # 生成文件名
     filename = f"{hash_digest}"  # 生成的文件名，使用 .json 作为扩展名
     return filename
+
 
 
 def generate_css_selector(driver, element):
@@ -113,17 +115,8 @@ def auto_fill_questionnaire(driver,filename):
                 element = driver.find_element(By.CSS_SELECTOR, option["css_selector"])
                 element.send_keys(config.SAMPLE_ANSWER)
                 logging.info(f"Filled in the blank for question {question['question_index']} with text: {config.SAMPLE_ANSWER}")
-        elif question["question_type"] == "single_choice":  # 单选题，随机选择一个
-            selected_option = random.choice(question["options"])
-            element = driver.find_element(By.CSS_SELECTOR, selected_option["css_selector"])
-            element.click()
-            logging.info(f"Clicked on option {selected_option['option_index']} of question {question['question_index']}")
-        elif question["question_type"] == "multiple_choice":  # 多选题，随机选择多个
-            selected_options = random.sample(question["options"], k=random.randint(1, len(question["options"])))
-            for selected_option in selected_options:
-                element = driver.find_element(By.CSS_SELECTOR, selected_option["css_selector"])
-                element.click()
-                logging.info(f"Clicked on option {selected_option['option_index']} of question {question['question_index']}")
+        elif question["question_type"] == "single_choice" or "multiple_choice":
+            process_choicequestion(question,driver)
 
 
 def execute_questionnaire_autofill(driver):

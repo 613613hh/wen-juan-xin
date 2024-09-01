@@ -38,6 +38,7 @@ def execute_conversation(messages, model):
         return f"Error: {str(e)}"
 
 
+
 def clean_model_output(output):
     match = re.findall(r'\[(.*?)\]', output)  # 匹配[]内的内容
     if match:
@@ -48,10 +49,11 @@ def clean_model_output(output):
     else:
         letters = re.findall(r'[a-zA-Z]+', output)  # 如果没有括号，匹配全局字母
 
-    # 将字母转换为对应的数字
-    numbers = [ord(letter.lower()) - ord('a') + 1 for letter in letters]
+    # 将字母转换为对应的数字字符
+    numbers = [str(ord(letter.lower()) - ord('a') + 1) for letter in letters]
 
     return numbers
+
 
 
 def log_question_and_answer(question_data, cleaned_output):

@@ -1,0 +1,429 @@
+[
+    {
+        "question_index": 1,
+        "question_text": "你的年级是：",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "大一",
+                "css_selector": "div#div1 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "大二",
+                "css_selector": "div#div1 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "大三",
+                "css_selector": "div#div1 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "大四",
+                "css_selector": "div#div1 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 2,
+        "question_text": "你的性别是：",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "男",
+                "css_selector": "div#div2 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "女",
+                "css_selector": "div#div2 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 3,
+        "question_text": "你每个月的生活费用是多少元？",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q3"
+            }
+        ]
+    },
+    {
+        "question_index": 4,
+        "question_text": "你的生活费用来源是？",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q4"
+            }
+        ]
+    },
+    {
+        "question_index": 5,
+        "question_text": "你现在的感情状况是？",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "正在恋爱",
+                "css_selector": "div#div5 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "单身",
+                "css_selector": "div#div5 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "刚失恋",
+                "css_selector": "div#div5 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "有正在追求的对象",
+                "css_selector": "div#div5 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 6,
+        "question_text": "你曾经或现在的恋爱时长是多长时间？（X日/X个月/X年）",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q6"
+            }
+        ]
+    },
+    {
+        "question_index": 7,
+        "question_text": "恋爱时的每月花费是多少元？",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q7"
+            }
+        ]
+    },
+    {
+        "question_index": 8,
+        "question_text": "你恋爱时通常会消费在哪些方面？【最少选择2项,已选择0项】",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "购物",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "饮食",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "娱乐",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "旅游",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "交通",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            },
+            {
+                "option_index": 6,
+                "option_text": "通讯",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(6) > div"
+            },
+            {
+                "option_index": 7,
+                "option_text": "礼物",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(7) > div"
+            },
+            {
+                "option_index": 8,
+                "option_text": "其他",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(8) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 9,
+        "question_text": "你的父母会给你一定的恋爱花销费用吗？",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "是",
+                "css_selector": "div#div9 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "否",
+                "css_selector": "div#div9 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 10,
+        "question_text": "你觉得自己会因为恋爱消费而导致生活紧张吗？",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "会经常导致生活紧张",
+                "css_selector": "div#div10 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "不会导致生活紧张",
+                "css_selector": "div#div10 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "有时会导致生活紧张",
+                "css_selector": "div#div10 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 11,
+        "question_text": "你认为金钱会影响恋人之间的关系吗？",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "不会有影响",
+                "css_selector": "div#div11 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "会有很大影响",
+                "css_selector": "div#div11 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "多少有点影响",
+                "css_selector": "div#div11 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 12,
+        "question_text": "你觉得恋爱中AA制消费怎么样？",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "显得太生疏、伤感情",
+                "css_selector": "div#div12 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "有利于维持感情",
+                "css_selector": "div#div12 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "没多大影响",
+                "css_selector": "div#div12 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "其他",
+                "css_selector": "div#div12 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 13,
+        "question_text": "你认为以下哪种说法更符合你的恋爱消费观？",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "恋爱时多花点钱没有关系",
+                "css_selector": "div#div13 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "恋爱应坚持勤俭节约",
+                "css_selector": "div#div13 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "双方都应量力而为，不给对方太大压力",
+                "css_selector": "div#div13 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "其他",
+                "css_selector": "div#div13 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 14,
+        "question_text": "你觉得选择恋爱对象的影响因素是什么？【最少选择2项,已选择0项】",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "外貌",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "性格",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "身高",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "经济条件好",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "地理位置",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            },
+            {
+                "option_index": 6,
+                "option_text": "工作能力和未来潜力",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(6) > div"
+            },
+            {
+                "option_index": 7,
+                "option_text": "感觉/眼缘",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(7) > div"
+            },
+            {
+                "option_index": 8,
+                "option_text": "家庭背景好",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(8) > div"
+            },
+            {
+                "option_index": 9,
+                "option_text": "学历学识",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(9) > div"
+            },
+            {
+                "option_index": 10,
+                "option_text": "其他",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(10) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 15,
+        "question_text": "你觉得哪个地区进行恋爱合适？",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "本地",
+                "css_selector": "div#div15 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "异地",
+                "css_selector": "div#div15 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "网络",
+                "css_selector": "div#div15 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 16,
+        "question_text": "根据第15题，选择该地区的原因是？",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q16"
+            }
+        ]
+    },
+    {
+        "question_index": 17,
+        "question_text": "你对另一半的身高要求具体是多少m？（数值）",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q17"
+            }
+        ]
+    },
+    {
+        "question_index": 18,
+        "question_text": "你能接受另一半的恋爱次数最多是多少次？（数值）",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q18"
+            }
+        ]
+    },
+    {
+        "question_index": 19,
+        "question_text": "你认为大学期间情侣每天在一起多长时间合适？（X个小时）",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q19"
+            }
+        ]
+    },
+    {
+        "question_index": 20,
+        "question_text": "你觉得恋爱与婚姻有什么关系？",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "恋爱应该以结婚为目的",
+                "css_selector": "div#div20 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "恋爱不一定要结婚",
+                "css_selector": "div#div20 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "恋爱只是游戏",
+                "css_selector": "div#div20 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "其他",
+                "css_selector": "div#div20 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    }
+]
