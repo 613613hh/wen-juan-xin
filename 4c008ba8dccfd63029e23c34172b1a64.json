@@ -1,0 +1,2317 @@
+[
+    {
+        "question_index": 1,
+        "question_text": "( )是指国家在一定时期内生产的最终产品和服务按价格计算的货币价值总量。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "(A)总需求",
+                "css_selector": "div#div1 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "(B)总需求价格",
+                "css_selector": "div#div1 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "(C)总供给",
+                "css_selector": "div#div1 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "(D)总供给价格",
+                "css_selector": "div#div1 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 2,
+        "question_text": "以下不属于劳动标准法的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)劳动争议处理法",
+                "css_selector": "div#div2 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)工资法",
+                "css_selector": "div#div2 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)劳动安全卫生标准法",
+                "css_selector": "div#div2 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)工作时间法",
+                "css_selector": "div#div2 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 3,
+        "question_text": "劳动法律关系的主要形态是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)劳动行政法律关系",
+                "css_selector": "div#div3 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)劳动合同关系",
+                "css_selector": "div#div3 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)劳动服务法律关系",
+                "css_selector": "div#div3 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)劳动监督关系",
+                "css_selector": "div#div3 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 4,
+        "question_text": "顾客力量分析是企业特定经营环境分析的重要内容，不包括( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)顾客购买动机分析",
+                "css_selector": "div#div4 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)市场商品消费结构分析",
+                "css_selector": "div#div4 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)顾客消费承受能力分析",
+                "css_selector": "div#div4 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)企业产品消费群体分析",
+                "css_selector": "div#div4 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 5,
+        "question_text": "阿伦和梅耶所进行的综合研究提出的承诺不包括( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)感情承诺",
+                "css_selector": "div#div5 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)继续承诺",
+                "css_selector": "div#div5 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)规范承诺",
+                "css_selector": "div#div5 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)口头承诺",
+                "css_selector": "div#div5 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 6,
+        "question_text": "以下不属于员工动态特征的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)员工学习",
+                "css_selector": "div#div6 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)员工自我保护机制",
+                "css_selector": "div#div6 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)员工激励",
+                "css_selector": "div#div6 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)员工的成熟和发展",
+                "css_selector": "div#div6 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 7,
+        "question_text": "下面不属于静态的组织设计理论的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)组织体制",
+                "css_selector": "div#div7 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)机构",
+                "css_selector": "div#div7 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)信息控制",
+                "css_selector": "div#div7 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)规章",
+                "css_selector": "div#div7 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 8,
+        "question_text": "以下关于新型组织结构模式的说法错误的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)卡特尔、辛迪加属于企业集团的结构模式",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)子公司和母公司模式较多地出现在横向合并而形成的企业中",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)多维立体组织结构主要应用于跨国公司和规模巨大的跨地区公司",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)模拟分权组织结构主要应用于生产经营活动连续性很强的大型联合企业",
+                "css_selector": "div#div8 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 9,
+        "question_text": "在企业组织结构变革时需分析组织关系，不属于其内容的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)某个单位应同哪些单位和个人发生联系",
+                "css_selector": "div#div9 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)某个单位要求别人给予何种配合和服务",
+                "css_selector": "div#div9 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)某个单位的工作效率和员工的士气如何",
+                "css_selector": "div#div9 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)某个单位应该为别的单位提供哪些服务",
+                "css_selector": "div#div9 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 10,
+        "question_text": "组织结构变革常招致各方面的抵制和反对，以下不属于其表现的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)生产经营情况恶化",
+                "css_selector": "div#div10 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)工作效率降低",
+                "css_selector": "div#div10 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)要求离职的人数增多",
+                "css_selector": "div#div10 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)市场占有率缩小",
+                "css_selector": "div#div10 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 11,
+        "question_text": "以下不属于影响企业人力资源活动法律因素的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)质量管理",
+                "css_selector": "div#div11 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)劳动保护的规定",
+                "css_selector": "div#div11 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)户籍制度",
+                "css_selector": "div#div11 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)安全生产的规定",
+                "css_selector": "div#div11 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 12,
+        "question_text": "局部改变某个科室的职能属于企业组织结构变革的( )变革方式。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)改良式",
+                "css_selector": "div#div12 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)渐进式",
+                "css_selector": "div#div12 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)计划式",
+                "css_selector": "div#div12 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)爆破式",
+                "css_selector": "div#div12 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 13,
+        "question_text": "以下不属于人力资源需求预测内容的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)现实人力资源预测",
+                "css_selector": "div#div13 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)未来人力资源需求预测",
+                "css_selector": "div#div13 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)现实人力资源需求预测",
+                "css_selector": "div#div13 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)未来流失人力资源预测分析",
+                "css_selector": "div#div13 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 14,
+        "question_text": "以下不属于人力资源需求预测的定量方法的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)灰色预测模型法",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)转换比率法",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)马尔可夫分析法",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)经验预测法",
+                "css_selector": "div#div14 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 15,
+        "question_text": "以下关于人力资源预测方法的说法不正确的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)德尔菲法适合于对人力需求的长期趋势预测",
+                "css_selector": "div#div15 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)转换比率法假定企业的劳动生产率是可变的",
+                "css_selector": "div#div15 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)转换比率法没能说明不同类别员工需求的差异",
+                "css_selector": "div#div15 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)德尔菲法可用于企业整体人力资源需求量的预测",
+                "css_selector": "div#div15 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 16,
+        "question_text": "对素质测评的对象进行直接的定量刻画的量化形式，称为( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)一次量化",
+                "css_selector": "div#div16 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)二次量化",
+                "css_selector": "div#div16 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)类别量化",
+                "css_selector": "div#div16 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)模糊量化",
+                "css_selector": "div#div16 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 17,
+        "question_text": "形式为“优、良、中、差”的员工素质测评标度为( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)量词式标度",
+                "css_selector": "div#div17 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)数量式标度",
+                "css_selector": "div#div17 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)定义式标度",
+                "css_selector": "div#div17 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)等级式标度",
+                "css_selector": "div#div17 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 18,
+        "question_text": "以下属于员工测评标准体系的结构性要素的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)身体素质",
+                "css_selector": "div#div18 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)婚姻状况",
+                "css_selector": "div#div18 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)工作经验",
+                "css_selector": "div#div18 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)性别年龄",
+                "css_selector": "div#div18 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 19,
+        "question_text": "测评学习能力的最简单有效的方法是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)心理测验",
+                "css_selector": "div#div19 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)品德测验",
+                "css_selector": "div#div19 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)投射技术",
+                "css_selector": "div#div19 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)情境测验",
+                "css_selector": "div#div19 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 20,
+        "question_text": "在员工素质测评结果的相关分析中，r=0表示两级测评数据( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)完全负相关",
+                "css_selector": "div#div20 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)不相关",
+                "css_selector": "div#div20 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)完全正相关",
+                "css_selector": "div#div20 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)不确定",
+                "css_selector": "div#div20 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 21,
+        "question_text": "过分强调应聘者的不利因素，以致不能全面了解这个人,这属于( )",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)第一印象",
+                "css_selector": "div#div21 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)对比效应",
+                "css_selector": "div#div21 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)晕轮效应",
+                "css_selector": "div#div21 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)录用压力",
+                "css_selector": "div#div21 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 22,
+        "question_text": "“如果你的两个得力下属一直吵架，你会怎麽处理?”这类问题属于( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)背景性问题",
+                "css_selector": "div#div22 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)情境性问题",
+                "css_selector": "div#div22 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)思维性问题",
+                "css_selector": "div#div22 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)经验性问题",
+                "css_selector": "div#div22 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 23,
+        "question_text": "( )被认为是当代人力资源管理中识别有才能的管理者最有效的工具。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)评价中心",
+                "css_selector": "div#div23 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)管理中心",
+                "css_selector": "div#div23 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)控制中心",
+                "css_selector": "div#div23 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)学习中心",
+                "css_selector": "div#div23 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 24,
+        "question_text": "以下最不适合用无领导小组讨论法进行人员选拔的岗位是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)人力资源主管",
+                "css_selector": "div#div24 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)财务管理人员",
+                "css_selector": "div#div24 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)销售部门经理",
+                "css_selector": "div#div24 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)公关部门经理",
+                "css_selector": "div#div24 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 25,
+        "question_text": "以下关于培训费用的说法错误的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)是指企业在员工培训过程中所发生的一切费用之和",
+                "css_selector": "div#div25 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)间接培训成本是指在培训组织实施过程之外企业所支付的费用",
+                "css_selector": "div#div25 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)由培训之前的准备工作和培训实施过程中各项活动的费用构成",
+                "css_selector": "div#div25 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)直接培训成本是在培训组织实施过程中培训者与受训者的一切费用总和",
+                "css_selector": "div#div25 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 26,
+        "question_text": "在制定培训规划时，设计培训方法的途径不包括( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)专家咨询",
+                "css_selector": "div#div26 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)中介机构",
+                "css_selector": "div#div26 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)小组讨论",
+                "css_selector": "div#div26 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)经验总结",
+                "css_selector": "div#div26 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 27,
+        "question_text": "培训项目计划是有效实施培训课程的基础， 它不包括( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)企业培训计划",
+                "css_selector": "div#div27 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)培训课程计划",
+                "css_selector": "div#div27 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)课程系列计划",
+                "css_selector": "div#div27 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)培训评估计划",
+                "css_selector": "div#div27 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 28,
+        "question_text": "在培训的印刷材料中，( )可以使包含许多复杂步骤的任务简单化。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)工作任务表",
+                "css_selector": "div#div28 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)岗位指南",
+                "css_selector": "div#div28 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)培训都指南",
+                "css_selector": "div#div28 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)学员手册",
+                "css_selector": "div#div28 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 29,
+        "question_text": "在管理人员所应具有的技能中，( )是指从整体把握组织目标、洞察组织与环境的相互关系的能力。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)专业技能",
+                "css_selector": "div#div29 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)人文技能",
+                "css_selector": "div#div29 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)理念技能",
+                "css_selector": "div#div29 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)协调技能",
+                "css_selector": "div#div29 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 30,
+        "question_text": "培训效果的正式评估的优点不包括( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)在数据和事实的基础上做出判断",
+                "css_selector": "div#div30 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)可将评估结论与最初计划比较",
+                "css_selector": "div#div30 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)容易将评估结论用书面形式表现",
+                "css_selector": "div#div30 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)不会给受训者带来太大的压力",
+                "css_selector": "div#div30 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 31,
+        "question_text": "在培训效果的层级体系中，结果评估的评估内容是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)受训者在工作过程中行为方式的变化和改进等",
+                "css_selector": "div#div31 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)受训都取得的生产经营或技术管理方面的业绩",
+                "css_selector": "div#div31 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)受训者在技能、态度、行为方式等方面的收获",
+                "css_selector": "div#div31 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)受训者对培训项目的主观感觉或满意程度如何",
+                "css_selector": "div#div31 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 32,
+        "question_text": "下列不属于培训技能成果的评估标准的是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)劳动效率",
+                "css_selector": "div#div32 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)定额标准",
+                "css_selector": "div#div32 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)质量标准",
+                "css_selector": "div#div32 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)操作规范",
+                "css_selector": "div#div32 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 33,
+        "question_text": "在评估培训效果时，( )适用于调查面广、封闭式问题和开放式问题并重的调查。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)访谈法",
+                "css_selector": "div#div33 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)问卷调查法",
+                "css_selector": "div#div33 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)观察法",
+                "css_selector": "div#div33 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)电话调查法",
+                "css_selector": "div#div33 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 34,
+        "question_text": "加权选择量表法属于( )绩效考评方法。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)质量导向型",
+                "css_selector": "div#div34 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)结果导向型",
+                "css_selector": "div#div34 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)行为导向型",
+                "css_selector": "div#div34 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)综合型",
+                "css_selector": "div#div34 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 35,
+        "question_text": "在采用合成考评法时，将描述性表格与绩效改进计划合成在一起，其不足之处是( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)缺乏针对性",
+                "css_selector": "div#div35 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)不能满足各类岗位的要求",
+                "css_selector": "div#div35 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)缺乏导向型",
+                "css_selector": "div#div35 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)不能进行人员的横向比较",
+                "css_selector": "div#div35 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 36,
+        "question_text": "( )表现为被考评者上一个考评期内的评价结果，对其本考评期内的评价产生影响。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)后继效应",
+                "css_selector": "div#div36 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)晕轮误差",
+                "css_selector": "div#div36 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)个人偏见",
+                "css_selector": "div#div36 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)优先效应",
+                "css_selector": "div#div36 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 37,
+        "question_text": "( )一般作为生产性组织的主要绩效考评指标。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)工作效率",
+                "css_selector": "div#div37 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)成本控制",
+                "css_selector": "div#div37 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)工作过程",
+                "css_selector": "div#div37 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)工作成果",
+                "css_selector": "div#div37 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 38,
+        "question_text": "客户投诉率属于( )的绩效考评指标。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)行为过程型",
+                "css_selector": "div#div38 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)质量特征型",
+                "css_selector": "div#div38 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)工作结果型",
+                "css_selector": "div#div38 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)工作方式型",
+                "css_selector": "div#div38 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 39,
+        "question_text": "将反映绩效考评指标内涵及外延等诸方面的特征进行综合的绩效考评标准为（ ）",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)分解提问标准",
+                "css_selector": "div#div39 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)综合等级标准",
+                "css_selector": "div#div39 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)综合提问标准",
+                "css_selector": "div#div39 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)分解等级标准",
+                "css_selector": "div#div39 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 40,
+        "question_text": "建立战略导向的KPI体系的意义不包括( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)有助于员工的自我实现",
+                "css_selector": "div#div40 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)对战略导向起牵引作用",
+                "css_selector": "div#div40 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)最大限度地激发员工斗志",
+                "css_selector": "div#div40 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)强调对员工行为的激励",
+                "css_selector": "div#div40 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 41,
+        "question_text": "一般来说，根据工作产出设定关键绩效指标时，所依据的基本原则不包括( )。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)增值产出的原则",
+                "css_selector": "div#div41 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)目标导向的原则",
+                "css_selector": "div#div41 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)结果优先的原则",
+                "css_selector": "div#div41 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)设定权重的原则",
+                "css_selector": "div#div41 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 42,
+        "question_text": "( )是基于胜任特征的考评方法，使用这种方法得出的结果更全面、深刻。",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)平衡计分卡",
+                "css_selector": "div#div42 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)评价中心",
+                "css_selector": "div#div42 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)行为定位法",
+                "css_selector": "div#div42 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)360度考评",
+                "css_selector": "div#div42 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 43,
+        "question_text": "( )的薪酬调查方式更适合于有着良好的对外关系的企业",
+        "question_type": "single_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)企业之间相互调查",
+                "css_selector": "div#div43 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)问卷调查",
+                "css_selector": "div#div43 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)委托中介机构调查",
+                "css_selector": "div#div43 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)访谈调查",
+                "css_selector": "div#div43 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 44,
+        "question_text": "有领袖魅力的管理者的关键特征包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)是变革的代言人",
+                "css_selector": "div#div44 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)自信和远见",
+                "css_selector": "div#div44 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)行为不循规蹈矩",
+                "css_selector": "div#div44 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)对环境敏感",
+                "css_selector": "div#div44 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)有清楚表达目标的能力",
+                "css_selector": "div#div44 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 45,
+        "question_text": "人力资源开发的根本目标包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)有效促进人的发展",
+                "css_selector": "div#div45 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)有效运用人的潜能",
+                "css_selector": "div#div45 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)有效促进组织的发展",
+                "css_selector": "div#div45 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)有效开发人的潜能",
+                "css_selector": "div#div45 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)有效开发组织的潜能",
+                "css_selector": "div#div45 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 46,
+        "question_text": "企业组织发展的战略主要有( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)多种经营战略",
+                "css_selector": "div#div46 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)扩大地区战略",
+                "css_selector": "div#div46 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)增大数量战略",
+                "css_selector": "div#div46 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)人才培养战略",
+                "css_selector": "div#div46 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)纵向整合战略",
+                "css_selector": "div#div46 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 47,
+        "question_text": "影响企业外部劳动力供给的因素有( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)择业心理偏好",
+                "css_selector": "div#div47 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)企业人员的自然流失",
+                "css_selector": "div#div47 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)社会就业意识",
+                "css_selector": "div#div47 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)劳动力市场发育程度",
+                "css_selector": "div#div47 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)地域性因素",
+                "css_selector": "div#div47 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 48,
+        "question_text": "人岗匹配包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)岗位与岗位之间相匹配",
+                "css_selector": "div#div48 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)员工与员工之间相匹配",
+                "css_selector": "div#div48 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)工作报酬与员工贡献相匹配",
+                "css_selector": "div#div48 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)工作要求与员工素质相匹配",
+                "css_selector": "div#div48 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)工作报酬与员工学历相匹配",
+                "css_selector": "div#div48 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 49,
+        "question_text": "测评方案的内容主要涉及( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)被测评的对象",
+                "css_selector": "div#div49 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)测评方法选择",
+                "css_selector": "div#div49 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)参照标准设计的确立",
+                "css_selector": "div#div49 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)测评员工选择",
+                "css_selector": "div#div49 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)素质能力测评的指标体系",
+                "css_selector": "div#div49 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 50,
+        "question_text": "在素质测评中，常用的对员工进行分类的标准有( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)道德分类标准",
+                "css_selector": "div#div50 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)调查分类标准",
+                "css_selector": "div#div50 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)数学分类标准",
+                "css_selector": "div#div50 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)性别分类标准",
+                "css_selector": "div#div50 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)能力分类标准",
+                "css_selector": "div#div50 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 51,
+        "question_text": "以下有关行为描述面试的说法正确的有( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)是一种特殊的结构化面试",
+                "css_selector": "div#div51 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)面试的问题都是行为性问题",
+                "css_selector": "div#div51 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)是一种特殊的非结构化面试",
+                "css_selector": "div#div51 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)面试的问题都是知识性问题",
+                "css_selector": "div#div51 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)实质是识别关键性的工作要求",
+                "css_selector": "div#div51 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 52,
+        "question_text": "无领导小组讨论的优点包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)具有生动的人际互动效应",
+                "css_selector": "div#div52 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)题目的质量影响测评的质量",
+                "css_selector": "div#div52 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)讨论过程真实、易于评价",
+                "css_selector": "div#div52 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)被评价者难以掩饰自己特点",
+                "css_selector": "div#div52 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)对评价者和评价标准的要求较高",
+                "css_selector": "div#div52 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 53,
+        "question_text": "目前流行的人员素质理论包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)冰山模型",
+                "css_selector": "div#div53 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)洋葱模型",
+                "css_selector": "div#div53 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)大海模型",
+                "css_selector": "div#div53 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)大树模型",
+                "css_selector": "div#div53 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)橘子模型",
+                "css_selector": "div#div53 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 54,
+        "question_text": "教学计划的基本内容包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)教学形式",
+                "css_selector": "div#div54 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)教学目标",
+                "css_selector": "div#div54 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)课程设置",
+                "css_selector": "div#div54 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)教学环节",
+                "css_selector": "div#div54 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)教学时间安排",
+                "css_selector": "div#div54 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 55,
+        "question_text": "在企业外部聘请培训师的优点包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)选择范围较大",
+                "css_selector": "div#div55 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)带来全新理念",
+                "css_selector": "div#div55 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)提高培训档次",
+                "css_selector": "div#div55 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)易于控制培训",
+                "css_selector": "div#div55 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)易于营造气氛",
+                "css_selector": "div#div55 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 56,
+        "question_text": "管理人员的培训方法中，短期学习的优点包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)训练周密",
+                "css_selector": "div#div56 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)增强了主动性",
+                "css_selector": "div#div56 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)针对性好",
+                "css_selector": "div#div56 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)学员能全力以赴学习",
+                "css_selector": "div#div56 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)较有深度",
+                "css_selector": "div#div56 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 57,
+        "question_text": "以下不属于培训前效果评估的作用的是( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)保证培训效果测定的科学性",
+                "css_selector": "div#div57 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)保证培训需求确认的科学性",
+                "css_selector": "div#div57 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)保证培训活动按照计划进行",
+                "css_selector": "div#div57 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)确保计划与实际需求合理衔接",
+                "css_selector": "div#div57 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)找出不足，发现新培训需要",
+                "css_selector": "div#div57 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 58,
+        "question_text": "对培训效果进行学习评估的时间应为( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)半年或一年以后",
+                "css_selector": "div#div58 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)课程结束时",
+                "css_selector": "div#div58 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)三个月或半年以后",
+                "css_selector": "div#div58 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)课程进行时",
+                "css_selector": "div#div58 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)公司进行绩效评估时",
+                "css_selector": "div#div58 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 59,
+        "question_text": "员工培训情感成果评估的测量方法包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)态度调查",
+                "css_selector": "div#div59 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)笔试",
+                "css_selector": "div#div59 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)现场观察",
+                "css_selector": "div#div59 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)访谈",
+                "css_selector": "div#div59 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)关注某小组",
+                "css_selector": "div#div59 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 60,
+        "question_text": "为了保证日清日结法得到有效地贯彻和实施，需要坚持( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)闭环原则",
+                "css_selector": "div#div60 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)逐步改进的原则",
+                "css_selector": "div#div60 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)不断优化的原则",
+                "css_selector": "div#div60 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)目标导向的原则",
+                "css_selector": "div#div60 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)比较分析的原则",
+                "css_selector": "div#div60 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 61,
+        "question_text": "从考评的性质和特点上看，行为导向型的主观评价方法( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)考评有客观依据",
+                "css_selector": "div#div61 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)缺乏量化的考评标准",
+                "css_selector": "div#div61 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)可用于考评团队绩效",
+                "css_selector": "div#div61 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)受考评者主观因素的制约和影响",
+                "css_selector": "div#div61 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)通过整体绩效来衡量员工的个体工作绩效",
+                "css_selector": "div#div61 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 62,
+        "question_text": "制约和影响绩效考评的正确性、可靠性和有效性的因素主要有( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)后继效应",
+                "css_selector": "div#div62 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)评价指标对考评的影响",
+                "css_selector": "div#div62 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)自我中心效应",
+                "css_selector": "div#div62 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)评价标准对考评的影响",
+                "css_selector": "div#div62 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)员工绩效的分布误差",
+                "css_selector": "div#div62 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 63,
+        "question_text": "以下关于等距量表的说法正确的有( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)有绝对零点",
+                "css_selector": "div#div63 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)数量差距相同",
+                "css_selector": "div#div63 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)数量差距以相同的比例变化",
+                "css_selector": "div#div63 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)没有绝对零点",
+                "css_selector": "div#div63 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)在一个变量上对事物进行分类",
+                "css_selector": "div#div63 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 64,
+        "question_text": "提取关键绩效指标的方法包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)综合指标法",
+                "css_selector": "div#div64 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)关键分析法",
+                "css_selector": "div#div64 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)目标分解法",
+                "css_selector": "div#div64 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)岗位分析法",
+                "css_selector": "div#div64 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)标杆基准法",
+                "css_selector": "div#div64 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 65,
+        "question_text": "审核关键绩效指标的要点包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)是否具有可操作性",
+                "css_selector": "div#div65 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)是否留有可以超越的空间",
+                "css_selector": "div#div65 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)工作产出是否为最终产品",
+                "css_selector": "div#div65 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)多个考评者参与，结果是否可靠、准确",
+                "css_selector": "div#div65 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)KPI能否解释被考评者50%以上的工作目标",
+                "css_selector": "div#div65 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 66,
+        "question_text": "企业进行薪酬调查可选择的企业类型包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)合乎一般标准的企业",
+                "css_selector": "div#div66 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)同行业中同类型的其他企业",
+                "css_selector": "div#div66 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)与本企业构成人力资源竞争对象的企业",
+                "css_selector": "div#div66 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)其他行业中有相似相近工作岗位的企业",
+                "css_selector": "div#div66 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)在本地区同一劳动力市场上招聘员工的企业",
+                "css_selector": "div#div66 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 67,
+        "question_text": "常用的薪酬调查方式有( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)企业之间相互调查",
+                "css_selector": "div#div67 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)问卷调查",
+                "css_selector": "div#div67 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)委托中介机构调查",
+                "css_selector": "div#div67 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)访谈调查",
+                "css_selector": "div#div67 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)采集社会公开信息",
+                "css_selector": "div#div67 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 68,
+        "question_text": "岗位工资制的特点包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)对人不对岗",
+                "css_selector": "div#div68 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)根据岗位支付工资",
+                "css_selector": "div#div68 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)同岗不同酬",
+                "css_selector": "div#div68 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)以岗位分析为基础",
+                "css_selector": "div#div68 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)客观性较强",
+                "css_selector": "div#div68 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 69,
+        "question_text": "一个合理的工资结构应该包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)固定工资",
+                "css_selector": "div#div69 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)浮动工资",
+                "css_selector": "div#div69 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)特殊津贴",
+                "css_selector": "div#div69 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)提成工资",
+                "css_selector": "div#div69 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)特殊福利",
+                "css_selector": "div#div69 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 70,
+        "question_text": "( )属于组合工资结构。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)岗位技能工资",
+                "css_selector": "div#div70 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)能力资格工资",
+                "css_selector": "div#div70 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)岗位效益工资",
+                "css_selector": "div#div70 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)技术等级工资",
+                "css_selector": "div#div70 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)薪点工资",
+                "css_selector": "div#div70 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 71,
+        "question_text": "( )的情况下，企业年金个人账户可由原管理机构继续管理。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)员工升学",
+                "css_selector": "div#div71 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)员工死亡",
+                "css_selector": "div#div71 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)员工参军",
+                "css_selector": "div#div71 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)员工失业",
+                "css_selector": "div#div71 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)新就业单位没有实行企业年金制度",
+                "css_selector": "div#div71 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 72,
+        "question_text": "劳务派遣单位的职责包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)支付工资",
+                "css_selector": "div#div72 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)被派遣劳动者的招聘甄选",
+                "css_selector": "div#div72 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)提供福利待遇",
+                "css_selector": "div#div72 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)被派遣劳动者的考核录用",
+                "css_selector": "div#div72 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)提供工作岗位",
+                "css_selector": "div#div72 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 73,
+        "question_text": "劳动力市场工资指导价位分为( )形式。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)年工资收入",
+                "css_selector": "div#div73 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)月工资收入",
+                "css_selector": "div#div73 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)周工资收入",
+                "css_selector": "div#div73 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)日工资收入",
+                "css_selector": "div#div73 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)小时工资收入",
+                "css_selector": "div#div73 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 74,
+        "question_text": "我国劳动力市场工资指导价位制度的具体目标包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)建立规范化的信息采集制度",
+                "css_selector": "div#div74 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)建立现代化的信息发布手段",
+                "css_selector": "div#div74 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)保证统计调查资料的及时性、准确性",
+                "css_selector": "div#div74 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)建立科学化的工资指导价位制定方法",
+                "css_selector": "div#div74 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)保证工资指导价位能真实反映劳动力价格",
+                "css_selector": "div#div74 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 75,
+        "question_text": "以下属于劳动安全卫生保护费用的有( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)工伤保险费",
+                "css_selector": "div#div75 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)工伤医疗费用",
+                "css_selector": "div#div75 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)工伤评残费用",
+                "css_selector": "div#div75 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)健康检查费用",
+                "css_selector": "div#div75 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)职业病防治费用",
+                "css_selector": "div#div75 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 76,
+        "question_text": "根据争议标的的不同，劳动争议可划分为( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)关于劳动权力的争议",
+                "css_selector": "div#div76 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)关于工作时间的争议",
+                "css_selector": "div#div76 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)关于休息休假的争议",
+                "css_selector": "div#div76 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)关于保险福利的争议",
+                "css_selector": "div#div76 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)关于劳动利益的争议",
+                "css_selector": "div#div76 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 77,
+        "question_text": "劳动争议仲裁案件的仲裁准备工作包括( )。【多选题】",
+        "question_type": "multiple_choice",
+        "options": [
+            {
+                "option_index": 1,
+                "option_text": "A)组成仲裁庭",
+                "css_selector": "div#div77 > div:nth-of-type(2) > div > div"
+            },
+            {
+                "option_index": 2,
+                "option_text": "B)审阅案件材料",
+                "css_selector": "div#div77 > div:nth-of-type(2) > div:nth-of-type(2) > div"
+            },
+            {
+                "option_index": 3,
+                "option_text": "C)庭审前进行调解",
+                "css_selector": "div#div77 > div:nth-of-type(2) > div:nth-of-type(3) > div"
+            },
+            {
+                "option_index": 4,
+                "option_text": "D)送达开庭通知",
+                "css_selector": "div#div77 > div:nth-of-type(2) > div:nth-of-type(4) > div"
+            },
+            {
+                "option_index": 5,
+                "option_text": "E)进行必要的调查取证",
+                "css_selector": "div#div77 > div:nth-of-type(2) > div:nth-of-type(5) > div"
+            }
+        ]
+    },
+    {
+        "question_index": 78,
+        "question_text": "简述制定企业各类人员规划的基本程序。",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q78"
+            }
+        ]
+    },
+    {
+        "question_index": 79,
+        "question_text": "简述绩效考评指标体系设计的程序以及绩效考评标准的设计原则。",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q79"
+            }
+        ]
+    },
+    {
+        "question_index": 80,
+        "question_text": "简述工作岗位分类以及采用点数法对生产性岗位进行纵向分级的主要步骤。",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "input#q80"
+            }
+        ]
+    },
+    {
+        "question_index": 81,
+        "question_text": "某电子产品销售公司拟在本年度内为下属的地区销售部招聘20名营销经理。公司人力资源部王经理，对新招聘来的大学生小章说：“这项重要任务就交给你了，你先提出一个招聘方案吧!”小章是刚刚从一所知名大学人力资源管理专业毕业的本科生，他欣然地接受了任务，一周以后，他设计了一份详细的招聘计划草案，送到了王经理的面前。\n\n在小章所提交的招聘计划草案中，提出营销经理的招聘工作分初选、细选和终选三个阶段完成。在根据应聘人员的简历、求职表和推荐信等资料进行初选的基础上，应当对候选人进行一次选拔性的素质测评，作为第二阶段的主要任务，然后再采用面试、无领导小组讨论等方法选拔出最终候选人。\n\n请根据本案例，回答以下问题：\n\n(1)您认为对应聘者进行选拔性素质测评，应当做好哪些准备工作?\n\n(2)对营销经理的“团队管理能力”进行测评时，需要把握哪些测评要素?",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "textarea#q81"
+            }
+        ]
+    },
+    {
+        "question_index": 82,
+        "question_text": "这次是一次为SH物流公司举行的一次培训课。课堂上，培训师时而在长篇大论的讲述，时而在白板上书写着，但是讲台下面却很混乱。中间下课休息时，学员聚集在一起议论，仓储主管小李说：“你们觉得这位名师如何?我可是耐着性子听了这两天半的课了，本以为他可能会讲些实用的内容，可是这三天的培训课快完了，我也没听到与我工作相关的内容!”而货运主管小齐大声说道：“主管在培训前可是发话啦，受训完回岗可是有任务的!我是做运输的，我想知道如何解决运输中突发事故，比如遇到发错货了、途中遭劫或货物被人做手脚了等问题时应该如何处理，结果听了半天，还没有摸到门道!”“这可不行啊，我们可是花了大价钱请他来上课的!平常，工作这麽忙，能坐到这里听课多不容易啊!要不是看他斯斯文文的样子，我早就提议大家将他赶下台了!”检验员小杨也急切地插话。仓储主管小李又接着说：“我们抱怨也没用啊，还是快想想办法吧。要不我们将这些情况向HR经理反映一下。”货运主管小齐说：“对!对!我们花钱并不是坐在这里听听课就行了，他虽然讲的都没错，但对我们没有用啊!这些想法一定要讲出来，一定要讲出来!”\n\n在企业人力资源管理活动过程中，这种令人失望的事并不少见，只是程度不同而已。\n\n请结合本案例，回答以下问题：\n\n(1)请分析说明是什麽原因导致上述教学质量问题的发生?\n\n(2)为了提高培训师的教学质量和效果，应当注重抓好哪些工作?",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "textarea#q82"
+            }
+        ]
+    },
+    {
+        "question_index": 83,
+        "question_text": "2001年8月1日，张先生与某工程设计院签订4年期劳动合同，合同期限到2005年7月30日止，工作岗位为行政助理。2003年2月变更劳动合同，张某任该院人力资源部人事主管。2003年2月某工程设计院开始实施由员工大会通过的新的技术经济责任制，该制度规定设置设计提成奖、管理奖、出勤奖、开发奖、工程奖等奖项，其中设计部门奖金总额为全年完成合同额减去工程成本和基本定额再乘以15%，基本定额为每名设计人员10万元;管理部门奖金以设计人员年平均奖金的70%为基数，再乘以各自岗位系数，人事主管岗位的系数为0.8.\n\n2004年10月15日张某认为某工程设计院未按照技术经济责任制的规定，足额支付其2003年及2004年1月至9月应得奖金，在与部门领导多次协商无果的情况下，向当地劳动争议仲裁机构提出申诉，请求某工程设计院按照办法的规定补发其应得奖金67180元及经济补偿金16800元。\n\n本案的具体的事实与理由如下：\n\n首先，张先生提供的工资表表明：2003年5月和10月两次累计预支张某奖金2.6万元，2004年5月和9月份两次支付2003年及2004年1月至9月奖金共计2.9万元，这与制度规定应予支付的数额相去甚远。\n\n其次，张先生提供的依据是：某工程设计院2003年全年完成合同额2150万元，2004年经营目标为2400万元;2003年工程成本为58万元，2004年工程成本为48万元。而某工程设计院认为张某的主张缺乏依据，以DD会计师事务所依法关于某工程设计院全面会计审计报告为依据对张某的主张提出异议。2003年实际完成合同额2000万元，工程成本为62万元;2004年数据仅为计划数据，实际发生情况与计划存在差距。\n\n再次，张先生主张2003年全院设计人员为22人，2004年全院设计人员为36人。而某工程设计院提供了该院人员情况表，证明该院2003年与2004年设计及设计辅助人员分别为25人和40人。\n\n最后，张某在申诉书中主张的数据均为其个人通过其职务工作所获得。\n\n请根据本案情况指出劳动争议的焦点，并提出裁决意见及其理由。",
+        "question_type": "fill_in_blank",
+        "options": [
+            {
+                "option_index": "1",
+                "css_selector": "textarea#q83"
+            }
+        ]
+    }
+]
